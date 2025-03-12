@@ -22,7 +22,7 @@
    </h1>
   </header>
   <main class="relative w-full flex-grow flex items-center justify-center">
-   <img alt="A variety of delicious dishes and ingredients displayed on a table" class="absolute inset-0 w-full h-full object-cover z-0" height="800" src="./img/planodefundocadastro.jpg" width="1200"/>
+   <img alt="A variety of delicious dishes and ingredients displayed on a table" class="absolute inset-0 w-full h-full object-cover z-0" height="800" src="./img/grand-beirut-hero-1920x1080.jpg" width="1200"/>
    <div class="relative bg-gray-200 p-8 rounded-lg shadow-lg z-10 w-11/12 max-w-md">
     <h2 class="text-2xl mb-4 text-center">
      Cadastro
