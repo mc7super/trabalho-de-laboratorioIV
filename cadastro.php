@@ -60,6 +60,9 @@
        <option>
         Chefe de Cozinha
        </option>
+       <option>
+        Degustador
+       </option>
       </select>
      </div>
      <div class="flex justify-end">
