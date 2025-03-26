@@ -56,17 +56,6 @@
       <label class="block text-sm" for="role">
        Cargo
       </label>
-      <select class="w-full p-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-yellow-400" id="role">
-      <option>
-        
-       </option> 
-      <option>
-        Chefe de Cozinha
-       </option>
-       <option>
-        Degustador
-       </option>
-      </select>
      </div>
      <div class="flex justify-end">
       <button class="bg-white p-2 rounded-full shadow-lg" type="submit">
