@@ -52,11 +52,6 @@
        Administrador
       </label>
      </div>
-     <div>
-      <label class="block text-sm" for="role">
-       Cargo
-      </label>
-     </div>
      <div class="flex justify-end">
       <button class="bg-white p-2 rounded-full shadow-lg" type="submit">
        <i class="fas fa-arrow-right text-gray-700">
